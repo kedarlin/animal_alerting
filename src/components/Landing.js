@@ -3,7 +3,7 @@ import Detect from './Detect';
 
 const Landing = () => {
   return (
-    <div className="App">
+    <div className="App w-100">
       <div className="site-wrap">
         <div className="site-section" id="glance-section" data-aos="fade">
           <div className="site-section bg-dark" id="demo-section" data-aos="fade">

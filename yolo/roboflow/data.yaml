@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['animals']
+
+roboflow:
+  workspace: yolo-m3bzt
+  project: animals-shwba
+  version: 18
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-m3bzt/animals-shwba/dataset/18
